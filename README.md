@@ -8,7 +8,7 @@ A simple News Portal based on Laravel Framework.
 2. Toastr v2.1.3
 
 ## Install
-01. `git clone https://github.com/parvez-git/laravel-news-portal.git`
+01. `git clone https://github.com/imtiajinfo/laravel-newspaper.git`
 02. `cd laravel-news-portal`
 03. `composer update`
 04. `cp .env.example .env`
